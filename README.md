@@ -1,3 +1,3 @@
 # FAPERJ_relatorio
 
-Python routine to solve a 2D trusses using finite element analysis.
+Python routines to used in the final report.
